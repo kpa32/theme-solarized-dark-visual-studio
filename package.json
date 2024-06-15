@@ -17,5 +17,9 @@
         "path": "./themes/Solarized Dark (Visual Studio)-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpa32/theme-solarized-dark-visual-studio"
   }
 }
